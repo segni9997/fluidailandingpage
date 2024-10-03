@@ -613,7 +613,7 @@ const App: React.FC = () => {
                 <input
                   type="text"
                   placeholder="Name"
-                  className='h-20 w-96 text-xl text-white bg-black border-white border-b-2 rounded-lg border-opacity-50 outline-none placeholder-gray-300 placeholder-opacity-0 transition duration-200'
+                  className='h-20 w-96 text-xl text-white bg-black border-white border-b-2 rounded-lg border-opacity-50 outline-none placeholder-transparent placeholder-opacity-0 transition duration-200'
                 />
                 <span className='text-xl text-white text-opacity-80 bg-black absolute left-5 top-8 px-1 transition duration-200 input-text'>Name</span>
               </label>
@@ -622,7 +622,7 @@ const App: React.FC = () => {
                 <input
                   type="text"
                   placeholder="Email"
-                  className='h-20 w-96 text-xl text-white bg-black border-white border-b-2 rounded-lg border-opacity-50 outline-none placeholder-gray-300 placeholder-opacity-0 transition duration-200'
+                  className='h-20 w-96 text-xl text-white bg-black border-white border-b-2 rounded-lg border-opacity-50 outline-none placeholder-transparent placeholder-opacity-0 transition duration-200'
                 />
                 <span className='text-xl text-white text-opacity-80 bg-black absolute left-5 top-8 px-1 transition duration-200 input-text'>Email</span>
               </label>
