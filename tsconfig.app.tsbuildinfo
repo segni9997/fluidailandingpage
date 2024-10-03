@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/home.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/imageprofiles.tsx","./src/components/navbar.tsx","./src/components/phoneheader.tsx","./src/components/search.tsx","./src/phone/calendar.tsx","./src/phone/explore.tsx","./src/phone/messages.tsx","./src/phone/welcome.tsx"],"version":"5.6.2"}
